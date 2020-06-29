@@ -8,3 +8,5 @@
     insteadOf = gh:
 [url "https://gist.github.com/"]
     insteadOf = gist:
+[core]
+	editor = vim
